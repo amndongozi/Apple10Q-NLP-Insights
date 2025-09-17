@@ -1,8 +1,8 @@
-**FinBERT & OpenAI: Apple 10-Q Technology Sentiment Analysis**
+***FinBERT & OpenAI: Apple 10-Q Technology Sentiment Analysis***
 
 This project is a Natural Language Processing (NLP) tool built to automatically extract and analyze technology mentions from SEC financial filings. By using a combination of specialized models and data analysis libraries, it provides a straightforward and effective way to gain insights from complex financial documents.
 
-**Tool Stack**
+***Tool Stack***
 
 **Python**: Core programming language.
 
@@ -18,7 +18,7 @@ This project is a Natural Language Processing (NLP) tool built to automatically 
 
 **uv or pip**: Package management.
 
-**How It Works**
+***How It Works***
 
 1. Read Files: The script reads the Apple 10-Q and Gartner technology list.
 
@@ -26,7 +26,7 @@ This project is a Natural Language Processing (NLP) tool built to automatically 
 
 3. Analyze Sentiment: Both FinBERT and OpenAI analyze each text snippet for sentiment.
 
-**How to Get Started**
+***How to Get Started***
 
 To run this project, you need a Python environment and the required libraries.
 
